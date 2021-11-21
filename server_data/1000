@@ -1,0 +1,5 @@
+history
+history 1000
+history -f
+history -anrw
+history -a 1000
